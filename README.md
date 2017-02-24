@@ -6,3 +6,4 @@
  - eee
  - fff
  - feature-A
+ - fix-B
